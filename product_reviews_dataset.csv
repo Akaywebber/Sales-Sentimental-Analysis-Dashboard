@@ -1,0 +1,1001 @@
+ReviewID,Product,Rating,ReviewText,ReviewDate
+1,Phone Y,1,Poor quality and bad performance,2025-04-30
+2,Laptop Air,4,Battery life is fantastic,2025-05-03
+3,Laptop Air,5,Works better than expected,2025-10-30
+4,Wireless Earbuds,1,I regret buying this,2025-03-15
+5,Laptop Air,1,The product feels cheap,2025-12-09
+6,Phone Y,2,Customer support was terrible,2025-06-18
+7,Phone X,4,"Amazing experience, highly recommend",2025-05-23
+8,Phone X,2,Very disappointing experience,2025-11-04
+9,Phone X,1,Customer support was terrible,2025-10-07
+10,Smart Watch,1,Customer support was terrible,2025-05-02
+11,Wireless Earbuds,4,Performance is very fast,2025-01-06
+12,Laptop Pro,5,Battery life is fantastic,2025-02-20
+13,Wireless Earbuds,3,Does the job,2025-10-16
+14,Phone X,4,"Amazing experience, highly recommend",2025-12-17
+15,Smart Watch,5,Very satisfied with the quality,2025-06-06
+16,Laptop Pro,5,Battery life is fantastic,2025-12-12
+17,Laptop Air,5,Build quality is excellent,2025-09-14
+18,Wireless Earbuds,1,Battery drains too fast,2025-05-27
+19,Laptop Pro,5,Performance is very fast,2025-11-23
+20,Phone Y,4,I love this product,2025-06-18
+21,Laptop Pro,3,Does the job,2025-06-05
+22,Smart Watch,5,Build quality is excellent,2025-09-11
+23,Laptop Pro,5,Works better than expected,2025-01-16
+24,Smart Watch,1,I regret buying this,2025-02-22
+25,Phone Y,2,Poor quality and bad performance,2025-08-21
+26,Laptop Pro,5,Battery life is fantastic,2025-07-28
+27,Laptop Air,2,I regret buying this,2025-11-05
+28,Wireless Earbuds,3,Standard performance,2025-07-01
+29,Phone Y,1,The product feels cheap,2025-01-22
+30,Phone X,1,The product feels cheap,2025-03-07
+31,Laptop Air,2,Stopped working after a week,2025-01-17
+32,Wireless Earbuds,1,I regret buying this,2025-06-16
+33,Phone X,1,Poor quality and bad performance,2025-01-01
+34,Wireless Earbuds,3,Nothing special but okay,2025-06-17
+35,Smart Watch,2,Poor quality and bad performance,2025-02-25
+36,Phone X,4,"Excellent product, works perfectly",2025-02-21
+37,Laptop Pro,5,Performance is very fast,2025-11-03
+38,Phone Y,3,Decent but could be better,2025-02-09
+39,Phone X,2,Very disappointing experience,2025-08-04
+40,Smart Watch,2,Battery drains too fast,2025-09-01
+41,Laptop Air,2,Stopped working after a week,2025-10-05
+42,Smart Watch,2,Customer support was terrible,2025-05-23
+43,Phone X,4,Build quality is excellent,2025-06-24
+44,Laptop Pro,5,Performance is very fast,2025-12-11
+45,Phone Y,1,Completely dissatisfied,2025-12-19
+46,Wireless Earbuds,2,Completely dissatisfied,2025-08-06
+47,Phone X,4,Great value for the price,2025-06-25
+48,Laptop Pro,1,I regret buying this,2025-10-04
+49,Phone Y,3,Okay for the price,2025-06-23
+50,Smart Watch,3,Fairly acceptable,2025-07-31
+51,Phone Y,2,Very slow and frustrating to use,2025-03-12
+52,Laptop Air,2,The product feels cheap,2025-08-26
+53,Smart Watch,2,Battery drains too fast,2025-10-26
+54,Phone X,2,Not worth the price,2025-05-11
+55,Smart Watch,2,The product feels cheap,2025-02-18
+56,Phone X,3,Fairly acceptable,2025-11-12
+57,Phone Y,3,Does the job,2025-10-07
+58,Phone X,5,Very satisfied with the quality,2025-05-29
+59,Laptop Air,2,Very slow and frustrating to use,2025-05-07
+60,Phone X,2,Battery drains too fast,2025-01-19
+61,Smart Watch,5,I love this product,2025-02-10
+62,Laptop Pro,3,Does the job,2025-07-02
+63,Phone Y,3,Does the job,2025-11-07
+64,Laptop Air,3,Fairly acceptable,2025-09-09
+65,Phone X,1,Customer support was terrible,2025-03-19
+66,Laptop Air,4,"Excellent product, works perfectly",2025-05-22
+67,Laptop Pro,5,Great value for the price,2025-10-03
+68,Wireless Earbuds,4,Performance is very fast,2025-05-02
+69,Phone Y,3,Nothing special but okay,2025-07-17
+70,Laptop Pro,3,It works as expected,2025-12-26
+71,Smart Watch,3,Decent but could be better,2025-10-16
+72,Laptop Air,3,Okay for the price,2025-06-18
+73,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-11-05
+74,Laptop Air,3,Okay for the price,2025-05-04
+75,Wireless Earbuds,4,"Excellent product, works perfectly",2025-06-16
+76,Wireless Earbuds,3,Fairly acceptable,2025-11-22
+77,Laptop Air,4,Very satisfied with the quality,2025-05-21
+78,Laptop Air,4,Build quality is excellent,2025-12-11
+79,Phone Y,1,Very slow and frustrating to use,2025-08-12
+80,Phone X,1,The product feels cheap,2025-12-08
+81,Phone X,2,Very slow and frustrating to use,2025-12-18
+82,Laptop Air,4,Battery life is fantastic,2025-12-16
+83,Smart Watch,5,Performance is very fast,2025-05-01
+84,Smart Watch,5,Performance is very fast,2025-05-08
+85,Phone X,3,Decent but could be better,2025-12-24
+86,Laptop Air,3,Okay for the price,2025-02-15
+87,Wireless Earbuds,5,Very satisfied with the quality,2025-10-26
+88,Phone X,1,Battery drains too fast,2025-05-10
+89,Wireless Earbuds,3,Standard performance,2025-05-09
+90,Wireless Earbuds,3,Does the job,2025-06-07
+91,Wireless Earbuds,1,The product feels cheap,2025-06-21
+92,Phone X,2,The product feels cheap,2025-05-21
+93,Phone X,1,Not worth the price,2025-12-02
+94,Phone X,2,Stopped working after a week,2025-03-26
+95,Wireless Earbuds,4,Great value for the price,2025-02-19
+96,Wireless Earbuds,3,Decent but could be better,2025-05-16
+97,Phone Y,2,I regret buying this,2025-09-23
+98,Laptop Pro,2,Very disappointing experience,2025-03-26
+99,Laptop Pro,4,Super happy with this purchase,2025-08-22
+100,Wireless Earbuds,2,Not worth the price,2025-12-27
+101,Phone X,5,"Amazing experience, highly recommend",2025-01-13
+102,Wireless Earbuds,3,Average product overall,2025-12-24
+103,Laptop Pro,2,Battery drains too fast,2025-01-05
+104,Phone Y,4,Works better than expected,2025-11-07
+105,Wireless Earbuds,1,The product feels cheap,2025-04-22
+106,Laptop Air,3,It works as expected,2025-05-09
+107,Phone Y,1,I regret buying this,2025-03-28
+108,Phone Y,5,Super happy with this purchase,2025-01-20
+109,Wireless Earbuds,5,Performance is very fast,2025-07-23
+110,Wireless Earbuds,1,The product feels cheap,2025-08-02
+111,Wireless Earbuds,5,Battery life is fantastic,2025-05-02
+112,Phone X,2,Stopped working after a week,2025-04-22
+113,Wireless Earbuds,4,Performance is very fast,2025-12-07
+114,Laptop Pro,5,"Amazing experience, highly recommend",2025-06-23
+115,Smart Watch,4,I love this product,2025-07-14
+116,Phone X,2,Customer support was terrible,2025-08-10
+117,Smart Watch,5,I love this product,2025-02-06
+118,Laptop Pro,1,Battery drains too fast,2025-03-30
+119,Laptop Air,2,The product feels cheap,2025-06-10
+120,Laptop Pro,3,Okay for the price,2025-07-30
+121,Smart Watch,1,Very disappointing experience,2025-02-10
+122,Laptop Pro,4,Works better than expected,2025-03-27
+123,Wireless Earbuds,4,Performance is very fast,2025-08-08
+124,Laptop Pro,2,Very slow and frustrating to use,2025-11-01
+125,Wireless Earbuds,5,Very satisfied with the quality,2025-05-26
+126,Laptop Air,5,"Excellent product, works perfectly",2025-12-10
+127,Smart Watch,1,The product feels cheap,2025-01-28
+128,Phone Y,1,Battery drains too fast,2025-03-15
+129,Wireless Earbuds,2,I regret buying this,2025-03-19
+130,Phone Y,1,Very slow and frustrating to use,2025-10-23
+131,Laptop Pro,3,The product is fine,2025-03-16
+132,Smart Watch,5,Great value for the price,2025-05-15
+133,Phone X,3,No major complaints,2025-09-25
+134,Phone X,3,Standard performance,2025-03-22
+135,Phone Y,3,It works as expected,2025-07-09
+136,Phone X,2,The product feels cheap,2025-11-25
+137,Wireless Earbuds,2,Completely dissatisfied,2025-04-29
+138,Wireless Earbuds,5,Super happy with this purchase,2025-07-24
+139,Smart Watch,1,Not worth the price,2025-08-26
+140,Smart Watch,1,Very slow and frustrating to use,2025-10-12
+141,Phone Y,1,Customer support was terrible,2025-03-25
+142,Smart Watch,2,Completely dissatisfied,2025-11-10
+143,Laptop Air,4,Works better than expected,2025-03-27
+144,Smart Watch,2,Stopped working after a week,2025-09-14
+145,Phone X,3,Decent but could be better,2025-05-19
+146,Smart Watch,3,No major complaints,2025-02-10
+147,Phone X,1,Poor quality and bad performance,2025-01-13
+148,Laptop Air,2,Very slow and frustrating to use,2025-02-02
+149,Laptop Air,2,Very disappointing experience,2025-05-14
+150,Laptop Pro,1,Very disappointing experience,2025-03-30
+151,Laptop Air,4,Performance is very fast,2025-12-13
+152,Phone Y,4,"Amazing experience, highly recommend",2025-10-25
+153,Smart Watch,5,Battery life is fantastic,2025-05-17
+154,Phone X,5,Super happy with this purchase,2025-06-13
+155,Phone X,1,I regret buying this,2025-01-30
+156,Laptop Air,1,Battery drains too fast,2025-04-26
+157,Smart Watch,2,Not worth the price,2025-06-05
+158,Wireless Earbuds,3,The product is fine,2025-01-31
+159,Laptop Pro,2,I regret buying this,2025-04-13
+160,Phone X,2,I regret buying this,2025-02-22
+161,Laptop Air,5,Works better than expected,2025-11-16
+162,Smart Watch,3,Nothing special but okay,2025-10-18
+163,Laptop Pro,5,Build quality is excellent,2025-05-10
+164,Laptop Pro,3,No major complaints,2025-11-01
+165,Wireless Earbuds,3,Average product overall,2025-03-06
+166,Phone X,4,Build quality is excellent,2025-02-07
+167,Laptop Air,4,Very satisfied with the quality,2025-06-03
+168,Laptop Pro,2,The product feels cheap,2026-01-01
+169,Laptop Pro,2,Not worth the price,2025-01-02
+170,Laptop Pro,3,The product is fine,2025-09-06
+171,Phone Y,3,Decent but could be better,2025-03-07
+172,Phone X,4,I love this product,2025-08-04
+173,Laptop Air,4,Super happy with this purchase,2025-03-30
+174,Phone Y,2,Completely dissatisfied,2025-10-13
+175,Wireless Earbuds,4,Works better than expected,2025-01-04
+176,Phone X,2,Very disappointing experience,2025-06-07
+177,Phone Y,4,Super happy with this purchase,2025-08-21
+178,Phone X,3,Standard performance,2025-09-22
+179,Laptop Pro,1,Battery drains too fast,2025-01-24
+180,Phone Y,5,Super happy with this purchase,2025-02-02
+181,Wireless Earbuds,5,"Amazing experience, highly recommend",2025-07-15
+182,Laptop Air,4,Very satisfied with the quality,2025-06-19
+183,Phone X,1,I regret buying this,2025-07-19
+184,Laptop Air,4,Build quality is excellent,2025-10-09
+185,Phone X,5,"Amazing experience, highly recommend",2025-06-05
+186,Laptop Air,4,I love this product,2025-07-05
+187,Wireless Earbuds,4,"Excellent product, works perfectly",2025-12-25
+188,Phone Y,3,It works as expected,2025-06-28
+189,Phone X,3,Standard performance,2025-10-23
+190,Wireless Earbuds,5,Battery life is fantastic,2025-06-23
+191,Wireless Earbuds,1,I regret buying this,2025-04-30
+192,Phone X,4,"Amazing experience, highly recommend",2025-09-06
+193,Wireless Earbuds,3,No major complaints,2025-05-03
+194,Smart Watch,3,Standard performance,2025-10-23
+195,Laptop Air,2,Very slow and frustrating to use,2025-03-15
+196,Wireless Earbuds,5,Battery life is fantastic,2025-01-04
+197,Laptop Pro,3,Standard performance,2025-12-10
+198,Wireless Earbuds,1,Very disappointing experience,2025-06-19
+199,Laptop Air,5,I love this product,2025-07-07
+200,Wireless Earbuds,2,Completely dissatisfied,2025-11-05
+201,Laptop Pro,1,Poor quality and bad performance,2025-11-15
+202,Phone Y,3,Okay for the price,2025-12-31
+203,Phone X,1,Completely dissatisfied,2025-10-25
+204,Phone X,2,Poor quality and bad performance,2025-01-05
+205,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-06-22
+206,Phone Y,2,Very slow and frustrating to use,2025-09-05
+207,Smart Watch,3,Does the job,2025-04-20
+208,Phone Y,5,Great value for the price,2025-01-15
+209,Wireless Earbuds,5,I love this product,2025-02-11
+210,Phone X,5,Build quality is excellent,2025-10-06
+211,Smart Watch,5,Performance is very fast,2025-07-04
+212,Smart Watch,4,Super happy with this purchase,2025-11-11
+213,Wireless Earbuds,2,Poor quality and bad performance,2025-12-10
+214,Phone Y,3,Nothing special but okay,2025-02-10
+215,Wireless Earbuds,1,Customer support was terrible,2025-03-10
+216,Phone Y,3,Decent but could be better,2025-03-09
+217,Smart Watch,3,The product is fine,2025-06-06
+218,Phone X,4,Very satisfied with the quality,2025-04-22
+219,Laptop Pro,5,Super happy with this purchase,2025-05-14
+220,Smart Watch,2,Completely dissatisfied,2025-07-17
+221,Phone X,3,No major complaints,2025-07-04
+222,Smart Watch,5,Great value for the price,2025-08-21
+223,Laptop Pro,5,Battery life is fantastic,2025-10-27
+224,Laptop Air,5,"Excellent product, works perfectly",2025-03-05
+225,Laptop Pro,2,Not worth the price,2025-08-22
+226,Smart Watch,1,Very disappointing experience,2025-10-31
+227,Phone Y,5,Performance is very fast,2025-12-27
+228,Laptop Air,1,Poor quality and bad performance,2025-03-18
+229,Wireless Earbuds,4,Performance is very fast,2025-10-16
+230,Wireless Earbuds,5,Great value for the price,2025-04-12
+231,Wireless Earbuds,5,Works better than expected,2025-07-02
+232,Laptop Pro,3,Okay for the price,2025-05-15
+233,Smart Watch,1,Stopped working after a week,2025-07-01
+234,Laptop Air,2,Completely dissatisfied,2025-02-02
+235,Phone Y,2,Very disappointing experience,2025-04-21
+236,Smart Watch,1,Completely dissatisfied,2025-03-23
+237,Laptop Pro,4,Super happy with this purchase,2025-09-26
+238,Smart Watch,3,The product is fine,2025-12-22
+239,Wireless Earbuds,1,Stopped working after a week,2025-05-18
+240,Smart Watch,3,Decent but could be better,2025-11-19
+241,Laptop Pro,2,Stopped working after a week,2025-06-28
+242,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-04-28
+243,Phone Y,4,Very satisfied with the quality,2025-04-15
+244,Wireless Earbuds,3,The product is fine,2025-03-21
+245,Phone Y,1,Poor quality and bad performance,2025-07-19
+246,Phone X,5,Super happy with this purchase,2025-06-27
+247,Laptop Pro,3,The product is fine,2025-07-06
+248,Smart Watch,2,Battery drains too fast,2025-08-06
+249,Wireless Earbuds,4,Performance is very fast,2025-09-23
+250,Wireless Earbuds,5,Great value for the price,2025-04-26
+251,Laptop Air,2,Very disappointing experience,2025-01-02
+252,Smart Watch,2,Very disappointing experience,2025-09-09
+253,Wireless Earbuds,4,Works better than expected,2025-06-16
+254,Smart Watch,4,Performance is very fast,2025-05-25
+255,Smart Watch,4,Super happy with this purchase,2025-08-24
+256,Smart Watch,1,Poor quality and bad performance,2025-02-26
+257,Phone X,1,Stopped working after a week,2025-09-09
+258,Laptop Pro,3,Does the job,2025-12-11
+259,Laptop Pro,1,Completely dissatisfied,2025-07-27
+260,Phone X,1,Not worth the price,2025-02-08
+261,Laptop Pro,3,Does the job,2025-10-15
+262,Wireless Earbuds,3,It works as expected,2025-03-07
+263,Wireless Earbuds,4,Performance is very fast,2025-03-08
+264,Phone X,5,Super happy with this purchase,2025-06-12
+265,Wireless Earbuds,4,Works better than expected,2025-09-18
+266,Phone Y,1,Not worth the price,2025-12-25
+267,Smart Watch,5,"Excellent product, works perfectly",2025-11-17
+268,Phone X,1,Battery drains too fast,2025-12-08
+269,Phone X,5,Super happy with this purchase,2025-10-29
+270,Laptop Air,4,"Excellent product, works perfectly",2025-09-26
+271,Laptop Pro,3,Nothing special but okay,2025-11-27
+272,Wireless Earbuds,4,I love this product,2025-10-04
+273,Smart Watch,1,Customer support was terrible,2025-05-20
+274,Laptop Pro,3,Nothing special but okay,2025-11-09
+275,Wireless Earbuds,3,Decent but could be better,2025-05-21
+276,Smart Watch,3,Average product overall,2025-05-17
+277,Wireless Earbuds,5,Great value for the price,2025-07-26
+278,Wireless Earbuds,4,I love this product,2025-04-18
+279,Smart Watch,1,I regret buying this,2025-09-25
+280,Phone Y,4,Build quality is excellent,2025-06-11
+281,Phone X,3,Average product overall,2025-05-31
+282,Phone X,2,Not worth the price,2025-11-07
+283,Phone X,4,"Amazing experience, highly recommend",2025-04-12
+284,Smart Watch,3,No major complaints,2025-10-01
+285,Phone Y,5,"Amazing experience, highly recommend",2025-01-25
+286,Phone Y,3,The product is fine,2025-02-02
+287,Smart Watch,3,Average product overall,2025-12-17
+288,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-01-12
+289,Phone X,5,Super happy with this purchase,2025-03-03
+290,Laptop Air,1,Battery drains too fast,2025-07-08
+291,Wireless Earbuds,2,Stopped working after a week,2025-10-21
+292,Phone X,4,I love this product,2025-10-04
+293,Phone X,3,The product is fine,2025-09-24
+294,Smart Watch,3,The product is fine,2025-10-07
+295,Laptop Pro,4,"Excellent product, works perfectly",2025-11-14
+296,Laptop Air,3,Standard performance,2025-10-16
+297,Phone X,3,Standard performance,2025-06-06
+298,Smart Watch,4,"Amazing experience, highly recommend",2025-05-10
+299,Laptop Pro,1,Very slow and frustrating to use,2025-05-02
+300,Phone Y,3,It works as expected,2025-04-23
+301,Smart Watch,1,Not worth the price,2025-09-17
+302,Wireless Earbuds,3,Okay for the price,2025-12-27
+303,Smart Watch,3,Fairly acceptable,2025-11-09
+304,Phone X,2,Completely dissatisfied,2025-05-17
+305,Smart Watch,5,Very satisfied with the quality,2025-05-15
+306,Laptop Pro,4,Super happy with this purchase,2025-03-28
+307,Wireless Earbuds,4,"Excellent product, works perfectly",2025-11-27
+308,Laptop Air,2,Battery drains too fast,2025-07-10
+309,Phone X,5,Build quality is excellent,2025-12-03
+310,Phone X,1,Battery drains too fast,2025-05-05
+311,Smart Watch,3,Decent but could be better,2025-07-02
+312,Laptop Pro,5,"Amazing experience, highly recommend",2025-05-17
+313,Phone X,2,Poor quality and bad performance,2025-01-26
+314,Laptop Air,4,Battery life is fantastic,2025-03-31
+315,Laptop Pro,5,Very satisfied with the quality,2025-11-06
+316,Laptop Air,1,Very disappointing experience,2025-07-30
+317,Laptop Air,1,Stopped working after a week,2025-07-19
+318,Phone Y,5,Works better than expected,2025-08-13
+319,Laptop Air,1,Customer support was terrible,2025-03-23
+320,Phone X,3,Standard performance,2025-02-24
+321,Phone Y,2,Completely dissatisfied,2025-07-15
+322,Smart Watch,5,Great value for the price,2025-04-22
+323,Laptop Pro,4,"Amazing experience, highly recommend",2025-08-14
+324,Wireless Earbuds,1,The product feels cheap,2025-09-11
+325,Laptop Air,4,Very satisfied with the quality,2025-07-07
+326,Wireless Earbuds,2,Very disappointing experience,2025-06-12
+327,Laptop Pro,3,Standard performance,2025-09-13
+328,Wireless Earbuds,3,Decent but could be better,2025-08-10
+329,Wireless Earbuds,4,Performance is very fast,2025-09-21
+330,Laptop Air,2,I regret buying this,2025-11-19
+331,Laptop Air,2,Very slow and frustrating to use,2025-10-05
+332,Phone Y,4,Very satisfied with the quality,2025-12-17
+333,Laptop Pro,2,Battery drains too fast,2025-09-17
+334,Wireless Earbuds,1,The product feels cheap,2025-02-11
+335,Laptop Pro,5,"Excellent product, works perfectly",2025-02-21
+336,Phone X,4,Super happy with this purchase,2025-06-27
+337,Wireless Earbuds,2,Completely dissatisfied,2025-08-06
+338,Phone X,5,Very satisfied with the quality,2025-10-31
+339,Phone Y,5,"Amazing experience, highly recommend",2025-11-08
+340,Laptop Air,1,The product feels cheap,2025-10-06
+341,Phone Y,3,Fairly acceptable,2025-12-01
+342,Phone Y,2,Very slow and frustrating to use,2025-06-26
+343,Smart Watch,2,Not worth the price,2025-04-13
+344,Smart Watch,2,The product feels cheap,2025-01-15
+345,Phone X,2,I regret buying this,2025-10-01
+346,Smart Watch,1,Very slow and frustrating to use,2025-09-02
+347,Phone X,3,Nothing special but okay,2025-05-02
+348,Phone Y,4,"Amazing experience, highly recommend",2025-12-27
+349,Phone X,3,Fairly acceptable,2025-12-21
+350,Phone X,1,Very disappointing experience,2025-10-08
+351,Phone Y,4,Great value for the price,2025-01-24
+352,Phone Y,1,Completely dissatisfied,2025-05-26
+353,Smart Watch,4,"Excellent product, works perfectly",2025-03-30
+354,Laptop Pro,1,I regret buying this,2025-12-01
+355,Phone X,1,Completely dissatisfied,2025-05-05
+356,Wireless Earbuds,2,Not worth the price,2025-01-15
+357,Phone X,4,Super happy with this purchase,2025-09-02
+358,Smart Watch,3,Nothing special but okay,2025-09-07
+359,Laptop Pro,4,Great value for the price,2025-10-26
+360,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-03-17
+361,Wireless Earbuds,2,Poor quality and bad performance,2025-07-28
+362,Smart Watch,2,Completely dissatisfied,2025-12-28
+363,Phone Y,5,Great value for the price,2025-11-26
+364,Phone X,4,Build quality is excellent,2025-11-05
+365,Smart Watch,2,Poor quality and bad performance,2025-08-07
+366,Smart Watch,1,Stopped working after a week,2025-02-01
+367,Laptop Air,1,The product feels cheap,2025-06-10
+368,Wireless Earbuds,2,The product feels cheap,2025-04-07
+369,Phone X,3,Standard performance,2025-05-04
+370,Phone X,2,The product feels cheap,2025-01-23
+371,Phone X,1,Completely dissatisfied,2025-02-19
+372,Wireless Earbuds,4,Super happy with this purchase,2025-10-25
+373,Smart Watch,5,Battery life is fantastic,2025-03-17
+374,Laptop Air,5,Great value for the price,2025-05-08
+375,Wireless Earbuds,3,Decent but could be better,2025-06-11
+376,Wireless Earbuds,5,I love this product,2025-01-18
+377,Phone Y,5,I love this product,2025-03-09
+378,Wireless Earbuds,3,Average product overall,2025-08-04
+379,Laptop Pro,5,Very satisfied with the quality,2026-01-01
+380,Wireless Earbuds,5,Battery life is fantastic,2025-07-29
+381,Phone Y,3,The product is fine,2025-07-28
+382,Laptop Pro,2,Customer support was terrible,2025-12-14
+383,Phone Y,4,Super happy with this purchase,2025-12-15
+384,Laptop Air,5,Battery life is fantastic,2025-05-31
+385,Phone Y,4,"Amazing experience, highly recommend",2025-05-23
+386,Wireless Earbuds,1,I regret buying this,2025-10-22
+387,Wireless Earbuds,1,Stopped working after a week,2025-07-16
+388,Laptop Air,5,I love this product,2025-01-17
+389,Wireless Earbuds,1,Completely dissatisfied,2025-12-08
+390,Phone Y,2,Poor quality and bad performance,2025-11-19
+391,Phone X,1,The product feels cheap,2025-02-26
+392,Smart Watch,5,Build quality is excellent,2025-06-26
+393,Phone Y,4,Build quality is excellent,2025-06-21
+394,Phone Y,2,Battery drains too fast,2025-08-01
+395,Wireless Earbuds,5,Works better than expected,2025-05-26
+396,Laptop Air,1,Very slow and frustrating to use,2025-07-23
+397,Laptop Pro,5,Great value for the price,2025-04-10
+398,Phone Y,4,Super happy with this purchase,2025-11-04
+399,Wireless Earbuds,3,Nothing special but okay,2025-06-14
+400,Phone X,2,Not worth the price,2025-08-03
+401,Smart Watch,5,"Excellent product, works perfectly",2025-02-08
+402,Laptop Pro,4,"Amazing experience, highly recommend",2025-08-20
+403,Laptop Pro,5,Great value for the price,2025-03-14
+404,Phone X,4,Great value for the price,2025-08-03
+405,Wireless Earbuds,1,Stopped working after a week,2025-12-28
+406,Phone X,4,Performance is very fast,2025-08-26
+407,Laptop Air,3,It works as expected,2025-07-22
+408,Laptop Air,2,Completely dissatisfied,2025-03-29
+409,Wireless Earbuds,5,I love this product,2025-06-14
+410,Phone X,5,"Excellent product, works perfectly",2025-06-01
+411,Laptop Pro,3,It works as expected,2025-12-11
+412,Laptop Air,1,Stopped working after a week,2025-08-30
+413,Smart Watch,4,Works better than expected,2025-01-01
+414,Smart Watch,2,The product feels cheap,2025-02-11
+415,Smart Watch,3,Nothing special but okay,2025-11-17
+416,Wireless Earbuds,2,The product feels cheap,2025-07-18
+417,Smart Watch,3,The product is fine,2025-01-03
+418,Smart Watch,5,Works better than expected,2025-05-05
+419,Phone X,2,Poor quality and bad performance,2025-04-22
+420,Wireless Earbuds,2,The product feels cheap,2025-09-16
+421,Laptop Air,1,Very disappointing experience,2025-07-29
+422,Phone Y,2,The product feels cheap,2025-10-28
+423,Smart Watch,5,"Excellent product, works perfectly",2025-09-04
+424,Laptop Air,5,Build quality is excellent,2025-12-31
+425,Phone Y,5,Battery life is fantastic,2025-12-23
+426,Smart Watch,3,Standard performance,2025-01-03
+427,Smart Watch,4,Great value for the price,2025-05-01
+428,Wireless Earbuds,1,Poor quality and bad performance,2025-10-04
+429,Phone X,2,Battery drains too fast,2025-03-14
+430,Phone X,2,I regret buying this,2025-02-24
+431,Laptop Air,4,Battery life is fantastic,2025-09-04
+432,Laptop Pro,1,I regret buying this,2025-12-05
+433,Phone Y,1,Stopped working after a week,2025-03-11
+434,Laptop Air,3,Fairly acceptable,2025-04-06
+435,Phone X,5,"Amazing experience, highly recommend",2025-04-13
+436,Laptop Air,5,I love this product,2025-02-21
+437,Laptop Air,1,I regret buying this,2025-06-03
+438,Phone X,2,The product feels cheap,2025-05-17
+439,Phone X,2,Very slow and frustrating to use,2025-04-27
+440,Phone X,4,Super happy with this purchase,2025-11-20
+441,Phone X,5,Great value for the price,2025-03-19
+442,Laptop Pro,2,Poor quality and bad performance,2025-09-20
+443,Wireless Earbuds,3,It works as expected,2025-04-23
+444,Smart Watch,1,Not worth the price,2025-01-04
+445,Laptop Air,5,Very satisfied with the quality,2025-04-27
+446,Phone Y,1,Very disappointing experience,2025-09-06
+447,Smart Watch,5,Very satisfied with the quality,2025-09-22
+448,Laptop Pro,4,Super happy with this purchase,2025-02-19
+449,Laptop Air,4,Build quality is excellent,2025-11-16
+450,Phone X,4,Build quality is excellent,2025-01-03
+451,Phone Y,4,Very satisfied with the quality,2025-06-19
+452,Phone X,1,Customer support was terrible,2025-11-13
+453,Laptop Pro,5,"Amazing experience, highly recommend",2025-06-09
+454,Laptop Air,3,The product is fine,2025-08-29
+455,Phone Y,2,Battery drains too fast,2025-07-20
+456,Laptop Pro,2,Not worth the price,2025-11-15
+457,Laptop Pro,1,Very disappointing experience,2025-01-29
+458,Laptop Pro,1,Not worth the price,2025-08-07
+459,Smart Watch,4,Battery life is fantastic,2025-10-04
+460,Phone Y,4,Super happy with this purchase,2025-12-01
+461,Phone Y,5,Super happy with this purchase,2025-09-13
+462,Laptop Pro,3,Nothing special but okay,2025-06-08
+463,Smart Watch,4,Very satisfied with the quality,2025-07-11
+464,Laptop Pro,5,"Excellent product, works perfectly",2025-08-29
+465,Wireless Earbuds,1,Poor quality and bad performance,2025-11-11
+466,Wireless Earbuds,2,Very disappointing experience,2025-03-24
+467,Phone Y,3,Does the job,2025-06-13
+468,Phone Y,5,"Amazing experience, highly recommend",2025-05-27
+469,Laptop Air,3,Okay for the price,2025-05-12
+470,Phone Y,2,Very disappointing experience,2025-01-27
+471,Laptop Air,4,Battery life is fantastic,2025-10-19
+472,Phone Y,5,"Amazing experience, highly recommend",2025-05-30
+473,Phone X,1,Very slow and frustrating to use,2025-08-28
+474,Phone Y,4,Build quality is excellent,2025-08-20
+475,Smart Watch,5,Battery life is fantastic,2025-12-24
+476,Laptop Pro,4,Super happy with this purchase,2025-09-28
+477,Laptop Pro,3,It works as expected,2025-01-05
+478,Phone X,4,Build quality is excellent,2025-10-31
+479,Phone X,1,Stopped working after a week,2025-10-25
+480,Phone Y,4,Battery life is fantastic,2025-04-21
+481,Smart Watch,4,Build quality is excellent,2025-03-08
+482,Wireless Earbuds,3,Okay for the price,2025-12-23
+483,Laptop Pro,4,"Excellent product, works perfectly",2025-07-21
+484,Laptop Air,5,"Excellent product, works perfectly",2025-12-12
+485,Phone X,4,"Amazing experience, highly recommend",2025-01-12
+486,Wireless Earbuds,4,Battery life is fantastic,2025-01-12
+487,Laptop Air,2,The product feels cheap,2025-02-23
+488,Laptop Air,4,Very satisfied with the quality,2025-10-16
+489,Phone X,5,"Excellent product, works perfectly",2025-08-11
+490,Laptop Air,2,Not worth the price,2025-01-28
+491,Phone Y,2,Very slow and frustrating to use,2025-04-28
+492,Laptop Pro,3,Nothing special but okay,2025-03-24
+493,Phone Y,2,I regret buying this,2025-10-24
+494,Laptop Pro,2,Customer support was terrible,2025-08-28
+495,Phone Y,1,Battery drains too fast,2025-05-30
+496,Laptop Air,3,Average product overall,2025-08-20
+497,Laptop Pro,5,Very satisfied with the quality,2025-10-03
+498,Phone X,4,Super happy with this purchase,2025-12-04
+499,Wireless Earbuds,3,No major complaints,2025-07-09
+500,Phone X,3,Does the job,2025-11-18
+501,Laptop Air,1,Stopped working after a week,2025-10-30
+502,Smart Watch,1,Not worth the price,2025-08-13
+503,Phone Y,2,Battery drains too fast,2025-03-30
+504,Smart Watch,2,Battery drains too fast,2025-08-07
+505,Laptop Pro,3,The product is fine,2025-01-31
+506,Smart Watch,3,Standard performance,2025-03-26
+507,Phone X,4,"Amazing experience, highly recommend",2025-03-06
+508,Wireless Earbuds,3,Does the job,2025-11-23
+509,Smart Watch,1,Not worth the price,2025-07-09
+510,Smart Watch,5,Performance is very fast,2025-12-29
+511,Phone X,3,Does the job,2025-05-10
+512,Laptop Air,2,I regret buying this,2025-07-04
+513,Phone Y,4,Build quality is excellent,2025-01-23
+514,Laptop Pro,5,Performance is very fast,2025-07-06
+515,Smart Watch,2,Poor quality and bad performance,2025-05-03
+516,Wireless Earbuds,3,Fairly acceptable,2025-11-23
+517,Smart Watch,1,Very disappointing experience,2025-04-29
+518,Laptop Air,2,Very disappointing experience,2025-09-19
+519,Laptop Pro,1,The product feels cheap,2025-08-31
+520,Smart Watch,5,Works better than expected,2025-04-14
+521,Phone Y,4,Build quality is excellent,2025-03-24
+522,Phone X,5,"Excellent product, works perfectly",2025-03-29
+523,Smart Watch,2,Battery drains too fast,2025-11-19
+524,Phone Y,3,Fairly acceptable,2025-04-21
+525,Laptop Pro,1,Customer support was terrible,2025-12-03
+526,Smart Watch,2,Very disappointing experience,2025-06-19
+527,Wireless Earbuds,1,Customer support was terrible,2025-07-07
+528,Phone X,1,Poor quality and bad performance,2025-10-21
+529,Wireless Earbuds,3,Decent but could be better,2025-09-19
+530,Smart Watch,5,Battery life is fantastic,2025-01-30
+531,Laptop Pro,4,Super happy with this purchase,2025-03-08
+532,Laptop Air,4,"Excellent product, works perfectly",2025-06-03
+533,Smart Watch,4,Super happy with this purchase,2025-04-13
+534,Wireless Earbuds,2,Stopped working after a week,2025-08-17
+535,Laptop Pro,5,Battery life is fantastic,2025-09-23
+536,Phone X,4,Great value for the price,2025-05-14
+537,Wireless Earbuds,4,Works better than expected,2025-10-30
+538,Phone X,5,Performance is very fast,2025-08-30
+539,Laptop Air,5,Build quality is excellent,2025-05-25
+540,Phone X,2,Stopped working after a week,2025-07-22
+541,Laptop Air,2,Stopped working after a week,2025-12-10
+542,Wireless Earbuds,3,It works as expected,2025-04-27
+543,Phone X,1,I regret buying this,2025-07-07
+544,Wireless Earbuds,1,The product feels cheap,2025-01-11
+545,Phone X,1,I regret buying this,2025-07-10
+546,Phone X,1,Stopped working after a week,2025-11-12
+547,Laptop Air,3,Standard performance,2025-07-08
+548,Wireless Earbuds,3,Does the job,2025-01-27
+549,Phone Y,4,I love this product,2025-03-12
+550,Smart Watch,5,Battery life is fantastic,2025-08-12
+551,Phone X,4,"Amazing experience, highly recommend",2025-05-05
+552,Laptop Pro,4,Works better than expected,2025-06-29
+553,Wireless Earbuds,4,Build quality is excellent,2025-02-23
+554,Laptop Pro,3,Standard performance,2025-08-09
+555,Phone Y,4,Super happy with this purchase,2025-09-27
+556,Laptop Pro,4,Works better than expected,2025-12-07
+557,Phone Y,3,Average product overall,2025-05-11
+558,Phone X,2,Poor quality and bad performance,2025-03-18
+559,Phone X,4,Works better than expected,2025-06-17
+560,Phone Y,5,Works better than expected,2025-11-04
+561,Smart Watch,3,Fairly acceptable,2025-05-15
+562,Phone X,2,Very disappointing experience,2025-11-29
+563,Wireless Earbuds,5,Super happy with this purchase,2025-01-01
+564,Wireless Earbuds,5,Battery life is fantastic,2025-12-15
+565,Wireless Earbuds,1,Very slow and frustrating to use,2025-06-23
+566,Smart Watch,3,No major complaints,2025-01-25
+567,Smart Watch,1,Poor quality and bad performance,2025-02-04
+568,Laptop Pro,5,Works better than expected,2025-02-04
+569,Smart Watch,3,It works as expected,2025-06-17
+570,Laptop Air,4,"Excellent product, works perfectly",2025-05-06
+571,Wireless Earbuds,3,No major complaints,2025-03-27
+572,Wireless Earbuds,2,The product feels cheap,2025-10-24
+573,Wireless Earbuds,3,Average product overall,2025-03-04
+574,Laptop Pro,5,Performance is very fast,2025-04-08
+575,Laptop Air,1,Completely dissatisfied,2025-06-28
+576,Laptop Air,4,"Excellent product, works perfectly",2025-01-12
+577,Phone X,5,"Amazing experience, highly recommend",2025-10-03
+578,Laptop Pro,2,Very slow and frustrating to use,2025-02-04
+579,Laptop Air,2,Customer support was terrible,2025-01-08
+580,Smart Watch,3,Fairly acceptable,2025-09-16
+581,Smart Watch,2,Stopped working after a week,2025-02-16
+582,Smart Watch,2,Completely dissatisfied,2025-11-23
+583,Smart Watch,1,Poor quality and bad performance,2025-05-16
+584,Phone X,3,The product is fine,2025-12-04
+585,Wireless Earbuds,2,Not worth the price,2025-10-10
+586,Wireless Earbuds,2,Very disappointing experience,2025-04-23
+587,Laptop Air,5,Super happy with this purchase,2025-04-28
+588,Laptop Air,3,Decent but could be better,2025-09-20
+589,Phone X,5,Performance is very fast,2025-03-27
+590,Laptop Pro,2,Very slow and frustrating to use,2025-02-16
+591,Smart Watch,3,It works as expected,2025-05-20
+592,Smart Watch,2,Poor quality and bad performance,2025-04-02
+593,Smart Watch,2,Poor quality and bad performance,2025-11-21
+594,Laptop Air,2,Not worth the price,2025-11-28
+595,Wireless Earbuds,2,Poor quality and bad performance,2025-01-15
+596,Smart Watch,5,Performance is very fast,2025-03-24
+597,Laptop Air,3,Fairly acceptable,2025-08-01
+598,Laptop Air,2,Completely dissatisfied,2025-09-14
+599,Laptop Air,5,Performance is very fast,2025-02-21
+600,Phone X,2,The product feels cheap,2025-09-05
+601,Laptop Pro,2,I regret buying this,2025-01-12
+602,Phone Y,1,Not worth the price,2025-08-06
+603,Phone Y,3,Nothing special but okay,2025-11-14
+604,Wireless Earbuds,4,Build quality is excellent,2025-12-05
+605,Laptop Air,2,Poor quality and bad performance,2025-04-22
+606,Laptop Air,3,No major complaints,2025-10-28
+607,Laptop Pro,2,Very disappointing experience,2025-03-31
+608,Phone Y,5,Battery life is fantastic,2025-03-26
+609,Laptop Air,2,I regret buying this,2025-04-04
+610,Phone Y,5,I love this product,2025-08-05
+611,Phone X,1,Completely dissatisfied,2025-08-06
+612,Smart Watch,5,Great value for the price,2025-06-29
+613,Wireless Earbuds,4,I love this product,2025-09-28
+614,Wireless Earbuds,5,I love this product,2025-05-25
+615,Phone X,5,Very satisfied with the quality,2025-11-21
+616,Smart Watch,3,Decent but could be better,2025-07-05
+617,Smart Watch,4,Build quality is excellent,2025-11-08
+618,Smart Watch,3,Does the job,2025-11-09
+619,Laptop Air,1,Not worth the price,2025-05-20
+620,Laptop Air,1,Not worth the price,2025-01-25
+621,Laptop Pro,2,Very slow and frustrating to use,2025-11-03
+622,Smart Watch,4,Works better than expected,2025-06-22
+623,Phone Y,4,Super happy with this purchase,2025-11-22
+624,Laptop Pro,2,Customer support was terrible,2025-10-08
+625,Wireless Earbuds,2,Very disappointing experience,2025-10-28
+626,Wireless Earbuds,3,Does the job,2025-03-15
+627,Phone Y,3,Does the job,2025-06-19
+628,Laptop Pro,2,Very disappointing experience,2025-10-14
+629,Smart Watch,2,Battery drains too fast,2025-10-23
+630,Laptop Pro,2,Stopped working after a week,2025-02-27
+631,Phone Y,2,Very disappointing experience,2025-12-15
+632,Wireless Earbuds,5,Super happy with this purchase,2025-09-28
+633,Phone X,5,Battery life is fantastic,2025-09-04
+634,Laptop Air,5,Great value for the price,2025-03-27
+635,Smart Watch,5,Performance is very fast,2025-11-27
+636,Phone X,4,"Excellent product, works perfectly",2025-11-01
+637,Phone X,2,Stopped working after a week,2025-11-15
+638,Laptop Air,4,Super happy with this purchase,2025-03-23
+639,Laptop Air,2,Completely dissatisfied,2025-08-27
+640,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-11-11
+641,Smart Watch,4,Performance is very fast,2025-04-06
+642,Laptop Pro,2,Poor quality and bad performance,2025-03-16
+643,Phone Y,4,I love this product,2025-03-03
+644,Wireless Earbuds,2,Very disappointing experience,2025-11-07
+645,Laptop Air,4,Performance is very fast,2025-05-31
+646,Smart Watch,2,Very disappointing experience,2025-08-30
+647,Phone X,5,Works better than expected,2025-02-12
+648,Wireless Earbuds,5,Battery life is fantastic,2025-05-26
+649,Wireless Earbuds,4,I love this product,2025-09-16
+650,Laptop Pro,2,Very slow and frustrating to use,2025-07-17
+651,Laptop Pro,4,Performance is very fast,2025-01-06
+652,Phone X,3,Fairly acceptable,2025-02-16
+653,Phone X,5,Battery life is fantastic,2025-04-08
+654,Laptop Pro,5,Super happy with this purchase,2025-12-30
+655,Laptop Air,2,Battery drains too fast,2025-05-31
+656,Laptop Pro,4,Works better than expected,2025-06-24
+657,Laptop Air,1,The product feels cheap,2025-04-13
+658,Phone X,5,"Amazing experience, highly recommend",2025-05-11
+659,Wireless Earbuds,4,I love this product,2025-02-23
+660,Phone Y,4,Build quality is excellent,2025-06-09
+661,Laptop Air,5,Build quality is excellent,2025-08-29
+662,Phone X,5,"Amazing experience, highly recommend",2025-07-03
+663,Laptop Pro,2,Not worth the price,2025-06-19
+664,Phone X,3,No major complaints,2025-07-10
+665,Laptop Air,3,The product is fine,2025-08-17
+666,Wireless Earbuds,5,Very satisfied with the quality,2025-11-25
+667,Wireless Earbuds,5,Performance is very fast,2025-03-31
+668,Phone X,4,Super happy with this purchase,2025-11-01
+669,Smart Watch,3,Standard performance,2025-01-07
+670,Smart Watch,2,Very slow and frustrating to use,2025-07-11
+671,Phone X,1,Poor quality and bad performance,2025-07-20
+672,Smart Watch,1,Poor quality and bad performance,2025-01-04
+673,Phone X,2,Completely dissatisfied,2025-12-23
+674,Smart Watch,2,Poor quality and bad performance,2025-05-18
+675,Phone X,2,Not worth the price,2025-01-25
+676,Phone X,2,Stopped working after a week,2025-08-27
+677,Wireless Earbuds,5,Very satisfied with the quality,2025-10-20
+678,Laptop Pro,4,Great value for the price,2025-06-11
+679,Smart Watch,3,Standard performance,2025-03-01
+680,Phone Y,4,Super happy with this purchase,2025-07-15
+681,Phone X,4,Performance is very fast,2025-12-26
+682,Smart Watch,5,Build quality is excellent,2025-03-30
+683,Laptop Pro,1,Customer support was terrible,2025-02-07
+684,Wireless Earbuds,3,No major complaints,2025-05-01
+685,Laptop Air,3,No major complaints,2025-11-08
+686,Laptop Pro,3,It works as expected,2025-10-23
+687,Laptop Pro,1,Poor quality and bad performance,2025-09-08
+688,Smart Watch,3,The product is fine,2025-05-20
+689,Laptop Pro,3,The product is fine,2025-12-21
+690,Laptop Air,3,Nothing special but okay,2025-01-16
+691,Laptop Air,3,Okay for the price,2025-12-26
+692,Laptop Pro,4,Build quality is excellent,2025-06-15
+693,Wireless Earbuds,1,I regret buying this,2025-06-17
+694,Laptop Air,5,I love this product,2025-03-24
+695,Smart Watch,1,Very slow and frustrating to use,2025-05-18
+696,Laptop Pro,2,Battery drains too fast,2025-05-30
+697,Laptop Air,4,Very satisfied with the quality,2025-12-08
+698,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-01-28
+699,Laptop Air,3,Nothing special but okay,2025-11-05
+700,Phone Y,4,Works better than expected,2025-12-04
+701,Phone Y,3,It works as expected,2025-06-10
+702,Laptop Air,3,Fairly acceptable,2025-09-07
+703,Phone X,5,"Excellent product, works perfectly",2025-10-12
+704,Laptop Air,5,Build quality is excellent,2025-08-08
+705,Phone X,3,The product is fine,2025-01-19
+706,Wireless Earbuds,5,Great value for the price,2025-08-21
+707,Laptop Pro,1,Very slow and frustrating to use,2025-10-06
+708,Phone Y,2,Poor quality and bad performance,2025-02-09
+709,Smart Watch,3,It works as expected,2025-02-03
+710,Wireless Earbuds,1,Very disappointing experience,2025-09-05
+711,Laptop Pro,4,Very satisfied with the quality,2025-11-28
+712,Laptop Air,4,"Excellent product, works perfectly",2025-07-23
+713,Phone X,2,Customer support was terrible,2025-07-03
+714,Smart Watch,5,Works better than expected,2025-01-04
+715,Phone Y,5,Works better than expected,2025-12-31
+716,Smart Watch,3,Decent but could be better,2025-09-28
+717,Phone X,3,The product is fine,2025-02-21
+718,Laptop Pro,1,Customer support was terrible,2025-08-12
+719,Laptop Air,4,"Excellent product, works perfectly",2025-12-09
+720,Phone X,5,Very satisfied with the quality,2025-11-27
+721,Laptop Air,4,Works better than expected,2025-05-30
+722,Wireless Earbuds,1,Completely dissatisfied,2025-10-06
+723,Smart Watch,5,Performance is very fast,2025-10-16
+724,Wireless Earbuds,1,Completely dissatisfied,2025-07-02
+725,Phone X,1,Very disappointing experience,2025-11-05
+726,Laptop Air,5,Build quality is excellent,2025-06-02
+727,Laptop Air,1,I regret buying this,2025-05-04
+728,Smart Watch,2,Not worth the price,2025-11-21
+729,Wireless Earbuds,4,Super happy with this purchase,2025-11-16
+730,Phone Y,4,Super happy with this purchase,2025-11-25
+731,Smart Watch,1,Battery drains too fast,2025-03-28
+732,Phone X,3,The product is fine,2025-12-06
+733,Laptop Air,2,Not worth the price,2025-08-13
+734,Wireless Earbuds,1,I regret buying this,2025-01-20
+735,Laptop Pro,1,Completely dissatisfied,2025-05-06
+736,Laptop Air,5,"Excellent product, works perfectly",2025-10-10
+737,Laptop Pro,1,Customer support was terrible,2025-02-05
+738,Laptop Air,1,Battery drains too fast,2025-08-31
+739,Phone Y,3,Standard performance,2025-03-18
+740,Wireless Earbuds,3,Nothing special but okay,2025-11-09
+741,Phone X,4,"Excellent product, works perfectly",2025-04-10
+742,Laptop Air,1,I regret buying this,2025-04-07
+743,Wireless Earbuds,3,Does the job,2025-08-13
+744,Wireless Earbuds,4,Great value for the price,2025-06-03
+745,Wireless Earbuds,2,The product feels cheap,2025-05-01
+746,Phone X,2,Completely dissatisfied,2025-05-19
+747,Phone Y,5,Works better than expected,2025-09-23
+748,Laptop Pro,2,Not worth the price,2025-11-21
+749,Smart Watch,2,Very disappointing experience,2025-12-06
+750,Laptop Air,5,Very satisfied with the quality,2025-09-07
+751,Laptop Pro,5,Works better than expected,2025-04-16
+752,Laptop Air,3,Okay for the price,2025-02-19
+753,Phone X,4,"Amazing experience, highly recommend",2025-09-04
+754,Laptop Pro,4,Build quality is excellent,2025-01-25
+755,Phone X,3,No major complaints,2025-06-02
+756,Laptop Air,4,Battery life is fantastic,2025-12-14
+757,Laptop Pro,4,Build quality is excellent,2025-03-22
+758,Smart Watch,4,"Amazing experience, highly recommend",2025-04-23
+759,Wireless Earbuds,2,I regret buying this,2025-12-30
+760,Phone X,4,Super happy with this purchase,2025-09-11
+761,Phone Y,3,The product is fine,2025-12-17
+762,Phone X,1,Not worth the price,2025-05-11
+763,Smart Watch,2,I regret buying this,2025-03-02
+764,Laptop Air,1,I regret buying this,2025-10-31
+765,Laptop Pro,4,Battery life is fantastic,2025-05-09
+766,Phone X,3,Okay for the price,2025-04-11
+767,Phone Y,4,Build quality is excellent,2025-09-06
+768,Laptop Air,5,Super happy with this purchase,2025-09-05
+769,Smart Watch,5,Works better than expected,2025-02-20
+770,Phone Y,4,Super happy with this purchase,2025-03-30
+771,Phone Y,4,"Amazing experience, highly recommend",2025-08-05
+772,Wireless Earbuds,4,Super happy with this purchase,2025-06-30
+773,Phone X,4,Performance is very fast,2025-09-10
+774,Laptop Air,1,The product feels cheap,2025-01-18
+775,Laptop Air,3,Does the job,2025-11-26
+776,Wireless Earbuds,1,Poor quality and bad performance,2025-07-08
+777,Phone X,2,Very disappointing experience,2025-10-08
+778,Laptop Pro,1,Stopped working after a week,2025-05-01
+779,Phone X,2,Very slow and frustrating to use,2025-12-05
+780,Laptop Pro,5,"Excellent product, works perfectly",2025-01-17
+781,Phone X,5,Battery life is fantastic,2025-08-01
+782,Laptop Air,5,Battery life is fantastic,2025-10-10
+783,Smart Watch,4,Super happy with this purchase,2025-06-18
+784,Phone Y,5,Great value for the price,2025-01-26
+785,Laptop Pro,4,Super happy with this purchase,2025-01-29
+786,Wireless Earbuds,5,"Amazing experience, highly recommend",2025-12-12
+787,Laptop Air,4,Super happy with this purchase,2025-10-25
+788,Phone Y,4,Works better than expected,2025-11-08
+789,Phone Y,5,I love this product,2025-07-20
+790,Phone X,2,Not worth the price,2025-09-18
+791,Phone X,5,I love this product,2025-02-14
+792,Smart Watch,4,Battery life is fantastic,2025-04-10
+793,Phone Y,3,Nothing special but okay,2025-06-01
+794,Laptop Pro,4,I love this product,2025-03-27
+795,Laptop Pro,2,The product feels cheap,2025-12-14
+796,Smart Watch,1,The product feels cheap,2025-06-25
+797,Laptop Air,5,I love this product,2025-01-13
+798,Phone Y,4,Very satisfied with the quality,2025-11-12
+799,Laptop Air,5,Super happy with this purchase,2025-05-28
+800,Laptop Pro,5,Build quality is excellent,2025-03-19
+801,Phone X,1,Stopped working after a week,2025-01-05
+802,Phone Y,4,I love this product,2025-04-26
+803,Phone X,4,Battery life is fantastic,2025-03-01
+804,Smart Watch,4,"Excellent product, works perfectly",2025-04-09
+805,Laptop Pro,4,Super happy with this purchase,2025-05-11
+806,Phone X,3,Nothing special but okay,2025-09-17
+807,Laptop Pro,1,Battery drains too fast,2025-05-22
+808,Phone X,2,Customer support was terrible,2025-03-14
+809,Phone Y,4,I love this product,2025-11-01
+810,Laptop Air,4,Great value for the price,2025-12-17
+811,Wireless Earbuds,3,Fairly acceptable,2025-12-22
+812,Laptop Air,2,Very disappointing experience,2025-02-18
+813,Smart Watch,1,Completely dissatisfied,2025-10-14
+814,Phone Y,1,Battery drains too fast,2025-05-30
+815,Smart Watch,1,Not worth the price,2025-04-17
+816,Wireless Earbuds,3,Fairly acceptable,2025-09-29
+817,Laptop Pro,2,Stopped working after a week,2025-05-15
+818,Wireless Earbuds,3,Decent but could be better,2025-03-13
+819,Laptop Air,2,Completely dissatisfied,2025-02-07
+820,Phone X,5,Battery life is fantastic,2025-04-04
+821,Phone X,5,Battery life is fantastic,2025-07-11
+822,Laptop Air,5,Build quality is excellent,2025-10-25
+823,Laptop Air,5,Super happy with this purchase,2025-10-20
+824,Phone X,1,I regret buying this,2025-10-31
+825,Phone Y,5,I love this product,2025-10-19
+826,Laptop Air,2,Customer support was terrible,2025-03-11
+827,Laptop Air,1,Completely dissatisfied,2025-06-01
+828,Laptop Air,5,Build quality is excellent,2025-10-05
+829,Smart Watch,4,"Excellent product, works perfectly",2025-05-04
+830,Laptop Pro,2,Not worth the price,2025-01-27
+831,Laptop Pro,3,Decent but could be better,2025-10-15
+832,Wireless Earbuds,2,Customer support was terrible,2025-06-09
+833,Laptop Air,1,The product feels cheap,2025-04-03
+834,Wireless Earbuds,2,Very slow and frustrating to use,2025-03-31
+835,Phone Y,1,Customer support was terrible,2025-01-25
+836,Phone X,2,Completely dissatisfied,2025-09-06
+837,Smart Watch,2,Poor quality and bad performance,2025-09-13
+838,Laptop Air,3,The product is fine,2025-05-04
+839,Smart Watch,5,Great value for the price,2025-02-03
+840,Laptop Air,3,Nothing special but okay,2025-05-31
+841,Phone X,4,Super happy with this purchase,2025-11-03
+842,Wireless Earbuds,1,Very slow and frustrating to use,2025-03-06
+843,Phone Y,1,I regret buying this,2025-03-16
+844,Phone Y,4,Build quality is excellent,2025-05-30
+845,Laptop Air,5,Battery life is fantastic,2025-07-09
+846,Smart Watch,2,The product feels cheap,2025-07-24
+847,Phone X,3,No major complaints,2025-07-04
+848,Laptop Air,1,The product feels cheap,2025-04-29
+849,Laptop Pro,2,Poor quality and bad performance,2025-04-21
+850,Laptop Air,3,Average product overall,2025-09-03
+851,Phone X,5,Build quality is excellent,2025-11-16
+852,Phone Y,2,Stopped working after a week,2025-07-20
+853,Phone X,5,Performance is very fast,2025-01-19
+854,Phone Y,3,No major complaints,2025-04-12
+855,Smart Watch,3,The product is fine,2025-03-26
+856,Phone Y,2,Customer support was terrible,2025-11-22
+857,Phone Y,3,Okay for the price,2025-04-22
+858,Laptop Pro,2,Very disappointing experience,2025-04-18
+859,Laptop Pro,1,Stopped working after a week,2025-11-13
+860,Laptop Air,2,Poor quality and bad performance,2025-01-04
+861,Laptop Pro,3,The product is fine,2025-08-07
+862,Phone Y,2,Not worth the price,2025-04-17
+863,Laptop Air,5,Super happy with this purchase,2025-05-16
+864,Smart Watch,4,Super happy with this purchase,2025-11-20
+865,Smart Watch,2,The product feels cheap,2025-07-21
+866,Laptop Pro,1,Customer support was terrible,2025-03-31
+867,Laptop Pro,5,"Excellent product, works perfectly",2025-07-06
+868,Phone Y,4,Very satisfied with the quality,2025-08-10
+869,Laptop Pro,5,Super happy with this purchase,2025-07-11
+870,Laptop Pro,2,The product feels cheap,2025-03-07
+871,Laptop Air,3,Does the job,2025-10-11
+872,Wireless Earbuds,3,Okay for the price,2025-02-24
+873,Phone Y,5,Super happy with this purchase,2025-06-22
+874,Laptop Air,2,Poor quality and bad performance,2025-01-30
+875,Phone Y,2,Customer support was terrible,2025-09-23
+876,Wireless Earbuds,4,I love this product,2025-07-16
+877,Laptop Air,5,Great value for the price,2025-02-04
+878,Wireless Earbuds,2,The product feels cheap,2025-07-26
+879,Laptop Pro,2,Completely dissatisfied,2025-08-26
+880,Smart Watch,1,Poor quality and bad performance,2025-03-12
+881,Laptop Air,2,The product feels cheap,2025-12-26
+882,Smart Watch,3,Standard performance,2025-05-18
+883,Wireless Earbuds,5,Performance is very fast,2025-05-10
+884,Laptop Pro,1,Not worth the price,2025-08-22
+885,Wireless Earbuds,2,Not worth the price,2025-10-16
+886,Phone Y,4,Super happy with this purchase,2025-02-26
+887,Wireless Earbuds,4,"Amazing experience, highly recommend",2025-05-28
+888,Phone Y,2,Very slow and frustrating to use,2025-10-06
+889,Phone Y,4,Very satisfied with the quality,2025-06-25
+890,Wireless Earbuds,2,Customer support was terrible,2025-08-27
+891,Phone Y,3,Average product overall,2025-04-24
+892,Smart Watch,1,Battery drains too fast,2025-01-16
+893,Smart Watch,1,The product feels cheap,2025-03-17
+894,Smart Watch,4,Great value for the price,2025-01-23
+895,Phone X,4,Build quality is excellent,2025-01-27
+896,Smart Watch,2,The product feels cheap,2025-07-11
+897,Wireless Earbuds,2,Stopped working after a week,2025-02-02
+898,Phone X,5,Build quality is excellent,2025-01-02
+899,Laptop Pro,4,Build quality is excellent,2025-09-13
+900,Smart Watch,1,The product feels cheap,2025-08-29
+901,Laptop Air,3,It works as expected,2025-03-16
+902,Phone Y,5,Great value for the price,2025-08-13
+903,Laptop Pro,2,Poor quality and bad performance,2025-02-25
+904,Phone Y,4,Performance is very fast,2025-08-06
+905,Laptop Pro,3,Fairly acceptable,2026-01-01
+906,Phone Y,1,Customer support was terrible,2025-05-05
+907,Wireless Earbuds,3,No major complaints,2025-04-12
+908,Phone X,4,"Excellent product, works perfectly",2025-12-01
+909,Smart Watch,5,Super happy with this purchase,2025-09-07
+910,Smart Watch,2,Customer support was terrible,2025-05-14
+911,Laptop Pro,4,Very satisfied with the quality,2025-11-20
+912,Smart Watch,4,Works better than expected,2025-05-10
+913,Wireless Earbuds,2,Stopped working after a week,2025-10-06
+914,Wireless Earbuds,3,No major complaints,2025-06-28
+915,Smart Watch,4,I love this product,2025-03-23
+916,Phone X,2,I regret buying this,2026-01-01
+917,Phone Y,4,"Excellent product, works perfectly",2025-09-11
+918,Wireless Earbuds,1,Completely dissatisfied,2025-09-24
+919,Phone Y,1,I regret buying this,2025-01-21
+920,Wireless Earbuds,5,Works better than expected,2025-08-08
+921,Phone X,3,Nothing special but okay,2025-11-19
+922,Laptop Pro,5,"Excellent product, works perfectly",2025-09-10
+923,Laptop Air,3,Okay for the price,2025-02-14
+924,Laptop Air,1,Battery drains too fast,2025-08-06
+925,Laptop Pro,2,I regret buying this,2025-06-22
+926,Smart Watch,5,"Amazing experience, highly recommend",2025-12-27
+927,Smart Watch,3,Decent but could be better,2025-10-07
+928,Laptop Pro,5,I love this product,2025-12-26
+929,Wireless Earbuds,4,Battery life is fantastic,2025-10-03
+930,Smart Watch,4,"Amazing experience, highly recommend",2025-12-24
+931,Smart Watch,4,"Amazing experience, highly recommend",2025-09-08
+932,Phone Y,4,Super happy with this purchase,2025-04-16
+933,Laptop Air,4,"Excellent product, works perfectly",2025-04-23
+934,Smart Watch,4,Great value for the price,2025-03-07
+935,Phone X,5,"Amazing experience, highly recommend",2025-11-19
+936,Phone X,1,Completely dissatisfied,2025-12-18
+937,Phone Y,2,Not worth the price,2025-01-02
+938,Smart Watch,2,Very disappointing experience,2025-02-11
+939,Laptop Air,1,Battery drains too fast,2025-07-02
+940,Laptop Pro,4,Build quality is excellent,2025-03-27
+941,Wireless Earbuds,1,Very disappointing experience,2025-04-29
+942,Laptop Pro,2,Battery drains too fast,2025-10-27
+943,Phone X,2,Very slow and frustrating to use,2025-09-30
+944,Smart Watch,1,Not worth the price,2025-09-10
+945,Laptop Air,3,Nothing special but okay,2025-02-02
+946,Phone X,2,Battery drains too fast,2025-12-30
+947,Laptop Air,2,Customer support was terrible,2025-10-10
+948,Wireless Earbuds,1,Customer support was terrible,2025-12-13
+949,Phone X,4,"Amazing experience, highly recommend",2025-06-16
+950,Smart Watch,4,Super happy with this purchase,2025-12-16
+951,Phone X,4,Build quality is excellent,2025-07-30
+952,Phone Y,1,Very slow and frustrating to use,2025-07-22
+953,Phone Y,1,Battery drains too fast,2025-11-08
+954,Smart Watch,3,Does the job,2025-05-05
+955,Smart Watch,4,Very satisfied with the quality,2025-08-21
+956,Phone Y,5,Build quality is excellent,2025-02-27
+957,Wireless Earbuds,2,Very slow and frustrating to use,2025-05-23
+958,Laptop Air,4,Works better than expected,2025-11-02
+959,Laptop Pro,1,I regret buying this,2025-04-24
+960,Laptop Pro,2,Battery drains too fast,2025-01-11
+961,Wireless Earbuds,1,Very disappointing experience,2025-08-03
+962,Phone X,2,The product feels cheap,2025-03-06
+963,Laptop Air,3,Does the job,2025-07-05
+964,Laptop Air,4,Battery life is fantastic,2025-09-23
+965,Laptop Pro,2,I regret buying this,2025-05-26
+966,Phone Y,1,The product feels cheap,2025-04-24
+967,Wireless Earbuds,5,Super happy with this purchase,2025-11-16
+968,Wireless Earbuds,1,Very slow and frustrating to use,2025-01-11
+969,Wireless Earbuds,5,"Amazing experience, highly recommend",2025-01-01
+970,Phone X,1,Customer support was terrible,2025-06-21
+971,Phone X,5,Very satisfied with the quality,2025-04-14
+972,Smart Watch,3,Okay for the price,2025-02-08
+973,Laptop Pro,2,Battery drains too fast,2025-07-17
+974,Laptop Air,2,I regret buying this,2025-06-21
+975,Phone Y,2,Not worth the price,2025-07-30
+976,Phone X,5,Very satisfied with the quality,2025-06-17
+977,Phone X,1,Very disappointing experience,2025-03-18
+978,Phone Y,3,Does the job,2025-07-03
+979,Phone Y,2,Stopped working after a week,2025-07-08
+980,Wireless Earbuds,3,The product is fine,2025-04-08
+981,Phone X,4,Battery life is fantastic,2025-08-07
+982,Phone X,4,Very satisfied with the quality,2025-03-27
+983,Phone X,4,"Excellent product, works perfectly",2025-02-09
+984,Wireless Earbuds,5,Very satisfied with the quality,2025-09-03
+985,Laptop Pro,3,The product is fine,2025-02-12
+986,Laptop Air,1,I regret buying this,2025-07-16
+987,Wireless Earbuds,2,The product feels cheap,2025-08-18
+988,Laptop Air,5,Build quality is excellent,2025-05-27
+989,Wireless Earbuds,4,Battery life is fantastic,2025-12-14
+990,Smart Watch,5,Super happy with this purchase,2025-09-19
+991,Laptop Pro,5,Very satisfied with the quality,2025-10-11
+992,Laptop Air,1,Stopped working after a week,2025-12-02
+993,Laptop Air,2,Completely dissatisfied,2025-07-19
+994,Laptop Pro,5,"Amazing experience, highly recommend",2025-03-04
+995,Phone X,1,Customer support was terrible,2025-05-05
+996,Laptop Pro,2,Poor quality and bad performance,2025-06-22
+997,Phone Y,4,"Excellent product, works perfectly",2025-05-13
+998,Phone Y,4,Works better than expected,2025-03-30
+999,Smart Watch,4,Battery life is fantastic,2025-10-26
+1000,Smart Watch,5,Works better than expected,2025-10-01
