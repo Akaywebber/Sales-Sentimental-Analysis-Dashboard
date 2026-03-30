@@ -4,7 +4,7 @@
 This repository contains a *Sales Dashboard* project designed to visualize and analyze product reviews. It includes the Power BI dashboard, the datasets used for analysis, and the associated Jupyter Notebook used for data cleaning and processing.
 ## Sales Dashboard Preview 
 
-![Sales Dashboard Preview](dashboard-preview.png)
+![Sales Dashboard Preview](Sales%20Dashboard%20Preview.png)
 
 ---
 
