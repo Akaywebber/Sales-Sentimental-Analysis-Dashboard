@@ -53,7 +53,7 @@ SalesDashboard/
 
 ## Author
 *Akachi Onodingene*  
-Portfolio/Contact: [akachukwuonodingene@gmail.com]
+Contact: [akachukwuonodingene@gmail.com]
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
